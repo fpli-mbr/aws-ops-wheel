@@ -76,7 +76,7 @@
   },
   "dependencies": {
     "amazon-cognito-identity-js": "^1.26.0",
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^3.4.1",
     "core-js": "^2.5.1",
     "es6-promise": "^4.1.1",
     "font-awesome": "^4.7.0",
